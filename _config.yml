@@ -6,11 +6,11 @@ description: "A blog and a portfolio"
 author: "author"
 title: "BlogFolio"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /testjekyll
 
 # social
 github:
-  username: boomi
+  username: jeffreyallen92
 
 twitter:
   username: boomiFGC
