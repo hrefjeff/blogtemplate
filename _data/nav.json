@@ -1,11 +1,11 @@
 {
     "items": [{
             "name": "Portfolio",
-            "link": "/portfolio/"
+            "link": "/testjekyll/portfolio/"
         },
         {
             "name": "About",
-            "link": "/about/"
+            "link": "/testjekyll/about/"
         }
     ]
 }
