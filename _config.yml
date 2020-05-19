@@ -1,10 +1,10 @@
 # Site settings
-name: name
-email: email
+name: Jeffrye Allen
+email: jeffwayne256@gmail.com
 url: url
 description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+author: "Jeffrey Allen"
+title: "Big Test"
 permalink: pretty
 baseurl: /testjekyll
 
