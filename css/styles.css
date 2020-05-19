@@ -34,7 +34,7 @@ a {
   border-radius: 3%;
 }
 
-.hero.is-primary {
+.hero.is-primary, .tag.is-primary {
   background-color: #f23029;
   color: white;
 }
