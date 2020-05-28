@@ -6,7 +6,7 @@ description: "A blog and a portfolio"
 author: "Jeffrey Allen"
 title: "Big Test"
 permalink: pretty
-baseurl: /testjekyll
+baseurl: /blogtemplate
 
 # social
 github:
